@@ -1,4 +1,7 @@
-venv
+env
 *.xlsx
 *.zip
 .idea
+*.txt
+*.pdf
+extra
